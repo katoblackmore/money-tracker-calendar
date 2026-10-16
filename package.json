@@ -1,0 +1,12 @@
+{
+  "name": "money-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Личный календарь платежей и учёт трат в USD и UAH с сохранением в браузере",
+  "scripts": {
+    "test": "node --check app.js && node checks/verify.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
